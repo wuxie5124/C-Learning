@@ -18,8 +18,8 @@ int main() {
 	cout << "a4[2]" << a4[2] << " at " << &a4[2] << endl;
 
 	a1[-2] = 20.2;
-	cout << "a1[-2]£º" << a1[-2] << " at " << &a1[-2] << endl;
-	cout << "a3[2]£º " << a3[2] << " at " << &a3[2] << endl;
+	cout << "a1[-2]:" << a1[-2] << " at " << &a1[-2] << endl;
+	cout << "a3[2]: " << a3[2] << " at " << &a3[2] << endl;
 	cout << "a4[2]: " << a4[2] << " at " << &a4[2] << endl;
 	system("pause");
 	return 0;
