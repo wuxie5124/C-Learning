@@ -1,5 +1,5 @@
 #include <iostream>
-int main() {
+int main58() {
 	using namespace std;
 	double number;
 	double sum = 0.0;
