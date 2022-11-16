@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <array>
-int main() {
+int main424() {
 	using namespace std;
 	double a1[4] = { 1.2,2.4,3.6,4.8 };
 	vector<double> a2(4);

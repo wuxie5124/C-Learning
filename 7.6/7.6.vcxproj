@@ -120,6 +120,12 @@
     <ClCompile Include="421.cpp" />
     <ClCompile Include="422.cpp" />
     <ClCompile Include="4318.cpp" />
+    <ClCompile Include="5.3.cpp" />
+    <ClCompile Include="5.4.cpp" />
+    <ClCompile Include="5.5.cpp" />
+    <ClCompile Include="5.6.cpp" />
+    <ClCompile Include="5.8.cpp" />
+    <ClCompile Include="51.cpp" />
     <ClCompile Include="7.6.cpp">
       <AdditionalUsingDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
       </AdditionalUsingDirectories>
