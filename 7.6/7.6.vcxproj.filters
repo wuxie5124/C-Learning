@@ -75,5 +75,11 @@
     <ClCompile Include="716.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="多线程.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>

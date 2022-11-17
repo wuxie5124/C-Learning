@@ -1,7 +1,7 @@
 #include <iostream>
 //µÝ¹éÀý×Ó
 void countdown(int n);
-int main() {
+int main716() {
 
 	countdown(4);
 	system("pause");
