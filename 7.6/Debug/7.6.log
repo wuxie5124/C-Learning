@@ -1,3 +1,6 @@
-﻿  多线程.cpp
-  7.6.vcxproj -> C:\Users\A\documents\visual studio 2015\1\7.6\Debug\7.6.exe
-  7.6.vcxproj -> C:\Users\A\documents\visual studio 2015\1\7.6\Debug\7.6.pdb (Partial PDB)
+﻿  多线程3.cpp
+  多线程2.cpp
+  正在生成代码...
+c:\users\a\documents\visual studio 2015\1\7.6\7.6\多线程2.cpp(30): warning C4715: “main3”: 不是所有的控件路径都返回值
+  7.6.vcxproj -> C:\Users\A\Documents\Visual Studio 2015\1\7.6\Debug\7.6.exe
+  7.6.vcxproj -> C:\Users\A\Documents\Visual Studio 2015\1\7.6\Debug\7.6.pdb (Partial PDB)

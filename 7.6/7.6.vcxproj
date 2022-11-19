@@ -141,6 +141,8 @@
     <ClCompile Include="7.9.cpp" />
     <ClCompile Include="716.cpp" />
     <ClCompile Include="多线程.cpp" />
+    <ClCompile Include="多线程2.cpp" />
+    <ClCompile Include="多线程3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
