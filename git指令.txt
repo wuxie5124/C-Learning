@@ -1,0 +1,38 @@
+gitgit init
+
+git add .
+
+touch .gitignore  (无法上传的文件加入写入该文件)
+
+git commit -m  "备注"
+
+git remote add origin 仓库链接地址
+
+git push -u origin master
+
+git status 修改
+
+git add .
+
+git commit -m “注释内容”
+
+git pull
+
+git push -u origin master
+
+git remote show origin         查看远程仓库:切换至某一目录，执行命令
+
+更新：方法一
+git fetch orgin master                     #将远程仓库的master分支下载到本地当前branch中
+
+git log -p master ..origin/master          #比较本地的master分支和origin/master分支的差别
+
+git merge origin/master                   #进行合并
+
+方法二：
+git fetch origin master:tmp
+
+git diff tmp
+
+git merge tmp
+
