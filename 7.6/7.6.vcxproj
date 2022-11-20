@@ -116,13 +116,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="6.7.cpp" />
     <ClCompile Include="4.19.cpp" />
     <ClCompile Include="4.24.cpp" />
     <ClCompile Include="4.6.cpp" />
-    <ClCompile Include="416.cpp" />
+    <ClCompile Include="4.16.cpp" />
     <ClCompile Include="421.cpp" />
     <ClCompile Include="422.cpp" />
-    <ClCompile Include="4318.cpp" />
+    <ClCompile Include="4.318.cpp" />
     <ClCompile Include="5.11.cpp" />
     <ClCompile Include="5.3.cpp" />
     <ClCompile Include="5.4.cpp" />
@@ -130,7 +131,9 @@
     <ClCompile Include="5.6.cpp" />
     <ClCompile Include="5.8.cpp" />
     <ClCompile Include="51.cpp" />
-    <ClCompile Include="516.cpp" />
+    <ClCompile Include="5.16.cpp" />
+    <ClCompile Include="6.8.cpp" />
+    <ClCompile Include="7.18.cpp" />
     <ClCompile Include="7.6.cpp">
       <AdditionalUsingDirectories Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
       </AdditionalUsingDirectories>
@@ -139,7 +142,12 @@
     <ClCompile Include="7.7.cpp" />
     <ClCompile Include="7.8.cpp" />
     <ClCompile Include="7.9.cpp" />
-    <ClCompile Include="716.cpp" />
+    <ClCompile Include="7.16.cpp" />
+    <ClCompile Include="712.cpp" />
+    <ClCompile Include="arrfun.cpp" />
+    <ClCompile Include="cinfish.cpp" />
+    <ClCompile Include="enum.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="多线程.cpp" />
     <ClCompile Include="多线程2.cpp" />
     <ClCompile Include="多线程3.cpp" />

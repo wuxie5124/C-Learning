@@ -21,7 +21,7 @@ void *PrintHello(void* threadarg){
 	return 0;
 }
 
-int main() {
+int main3() {
 	pthread_t threads[NUM_THREADS];
 	struct thread_data td[NUM_THREADS];
 	int rc;

@@ -11,7 +11,7 @@ void *print_hello(void *threadid) {
 	pthread_exit(NULL);
 	return 0;
 }
-int main3() {
+int main2() {
 	pthread_t threads[NUM_THREADS];
 	int indexes[NUM_THREADS];
 	int rc;

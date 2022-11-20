@@ -9,7 +9,7 @@ void *say_hello(void* args) {
 	cout << "Hello Runoob" << endl;
 	return 0;
 }
-int main2() {
+int main1() {
 	pthread_t tids[NUM_THREAD];
 	for (int i = 0; i < NUM_THREAD; ++i) {
 		int ret = pthread_create(&tids[i], NULL, say_hello, NULL);
