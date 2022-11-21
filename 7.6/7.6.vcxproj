@@ -148,12 +148,16 @@
     <ClCompile Include="cinfish.cpp" />
     <ClCompile Include="enum.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="tv.cpp" />
     <ClCompile Include="多线程.cpp" />
     <ClCompile Include="多线程2.cpp" />
     <ClCompile Include="多线程3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tv.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
